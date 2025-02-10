@@ -106,9 +106,3 @@ A curated list of **awesome tools, libraries, and resources** related to program
 ## 🌟 Contributing  
 Have a suggestion? Feel free to open an issue or pull request. Contributions are welcome!  
 
----
-
-## 💬 License  
-This repository is licensed under the [MIT License](LICENSE).
-
----
